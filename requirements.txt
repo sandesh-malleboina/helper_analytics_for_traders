@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+statsmodels
+scipy
+plotly
+sqlalchemy
+requests
+websocket-client
