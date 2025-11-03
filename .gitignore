@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Streamlit cache and local files
+.streamlit/
+
+# Database file
+ticks.db
+
+# Logs and local configuration
+*.log
+.DS_Store # macOS system file
+
+# IDE specific files
+.idea/      # PyCharm/IntelliJ
+.vscode/    # VS Code
+
+# Streamlit-specific cache files
+cache/
