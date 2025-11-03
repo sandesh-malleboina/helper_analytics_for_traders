@@ -45,9 +45,7 @@ The system is decoupled into three main processes running concurrently:
 
 ---
 
-## 📐 Architecture Diagram Description
 
-I recommend using the **Box & Arrow** style in `draw.io` (app.diagrams.net). The architecture is clearly separated into three domains (Ingestion, Backend/Analytics, and Presentation) across three running processes. 
 
 ### I. Data Ingestion Flow (Continuous)
 
